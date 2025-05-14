@@ -71,6 +71,7 @@ pip install -r requirements.txt
 
 # Run analysis
 python analyze.py
+---
 
 ## 📎 Dataset
 The dataset used is from Kaggle, and contains simulated data for an A/B test.
@@ -82,6 +83,7 @@ user_id
 group (control or treatment)
 
 converted (0 or 1)
+---
 
 ## 📈 Output Files
 After running analyze.py, you’ll find:
@@ -89,6 +91,7 @@ After running analyze.py, you’ll find:
 output/conversion_chart.png: A bar chart showing conversion rates
 
 output/report.md: A Markdown report summarizing the results
+---
 
 ## 📌 Notes
 This is a small and simple project, perfect for learning A/B testing fundamentals.
