@@ -57,6 +57,20 @@ Conclusion: ❌ Not statistically significant — the difference may be due to c
 
 ---
 
+## 📎 Dataset
+The dataset used is from Kaggle, and contains simulated data for an A/B test.
+
+Columns include:
+
+user_id
+
+group (control or treatment)
+
+converted (0 or 1)
+
+---
+
+
 ## 📬 How to Run This Project
 
 ```bash
@@ -72,19 +86,7 @@ pip install -r requirements.txt
 # Run analysis
 python analyze.py
 
-```bash
----
-
-## 📎 Dataset
-The dataset used is from Kaggle, and contains simulated data for an A/B test.
-
-Columns include:
-
-user_id
-
-group (control or treatment)
-
-converted (0 or 1)
+```
 ---
 
 ## 📈 Output Files
@@ -93,6 +95,7 @@ After running analyze.py, you’ll find:
 output/conversion_chart.png: A bar chart showing conversion rates
 
 output/report.md: A Markdown report summarizing the results
+
 ---
 
 ## 📌 Notes
