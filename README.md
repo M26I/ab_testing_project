@@ -58,7 +58,7 @@ Conclusion: ❌ Not statistically significant — the difference may be due to c
 ---
 
 ## 📎 Dataset
-The dataset used is from (Kaggle)[https://www.kaggle.com/datasets/zhangluyuan/ab-testing], and contains simulated data for an A/B test.
+The dataset used is from [Kaggle](https://www.kaggle.com/datasets/zhangluyuan/ab-testing), and contains simulated data for an A/B test.
 
 Columns include:
 
