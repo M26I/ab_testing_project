@@ -71,6 +71,8 @@ pip install -r requirements.txt
 
 # Run analysis
 python analyze.py
+
+```bash
 ---
 
 ## 📎 Dataset
