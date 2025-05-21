@@ -102,4 +102,8 @@ output/report.md: A Markdown report summarizing the results
 This is a small and simple project, perfect for learning A/B testing fundamentals.
 It doesn’t use Flask or machine learning — just clean, understandable Python code and basic statistics.
 
+---
+© 2025 M26I – For educational/portfolio use only.  
+Unauthorized use or redistribution without credit is prohibited.
+
 
