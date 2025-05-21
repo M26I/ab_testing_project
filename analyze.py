@@ -1,3 +1,5 @@
+# © 2025 M26I - For educational/portfolio use only
+
 import pandas as pd
 from scipy import stats
 import matplotlib.pyplot as plt
